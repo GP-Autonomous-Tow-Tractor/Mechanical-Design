@@ -1,5 +1,5 @@
 ﻿
-EN   Your download at 03/11/2025 on 3dfindit:
+EN   Your download at 03/20/2025 on 3dfindit:
 
        Dear user,
        
@@ -7,10 +7,10 @@ EN   Your download at 03/11/2025 on 3dfindit:
 
        
 
-       SOLIDWORKS, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K.sldasm
-       SOLIDWORKS, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K_PART1.sldprt
-       SOLIDWORKS, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K_PART2.sldprt
-       SOLIDWORKS, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K, Pressed Steel Swivel and Fixed Caster BH-ALST-160-P3-K_PART3.sldprt
+       SOLIDWORKS, 88-127 ZK, 127 ZK 17-X.sldprt
+       SOLIDWORKS, 88-127 ZK, 88-127 ZK-body.sldprt
+       SOLIDWORKS, 88-127 ZK, 88-127 ZK-shaft.sldprt
+       SOLIDWORKS, 88-127 ZK, 88-127 ZK.sldasm
 	
        Information for use:
 
