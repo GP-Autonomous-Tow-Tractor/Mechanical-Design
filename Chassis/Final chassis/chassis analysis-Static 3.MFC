@@ -1,0 +1,16 @@
+[StartTime]
+chassis analysis-Static 3.MFC=1s
+[SolverState]
+chassis analysis-Static 3.MFC=2
+[MainFrame]
+chassis analysis-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+chassis analysis-Static 3.MFC=No
+[SolverType]
+chassis analysis-Static 3.MFC=Linear Analysis
+[StudyType]
+chassis analysis-Static 3.MFC=0
+[StudyName]
+chassis analysis-Static 3.MFC=Static 3
+[Solver]
+chassis analysis-Static 3.MFC=Sparse
